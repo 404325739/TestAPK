@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<key>
+<item xPos="-20" yPos="110" KeyType="mute" KeyType_Long="power" Radius="25" Repetitive="0" ActiveTime="500" />
+<item xPos="-24" yPos="193" KeyType="home" KeyType_Long="none" Radius="25" Repetitive="0" ActiveTime="-1" />
+<item xPos="-27" yPos="267" KeyType="back" KeyType_Long="none" Radius="25" Repetitive="0" ActiveTime="-1" />
+<item xPos="-21" yPos="351" KeyType="add_volume" KeyType_Long="none" Radius="25" Repetitive="1" ActiveTime="200" />
+<item xPos="-23" yPos="428" KeyType="del_volume" KeyType_Long="none" Radius="25" Repetitive="1" ActiveTime="200" />
+</key>

@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<config>
+    <node touch="0065_0005_1060_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0065_0005_1061_0600">
+        <item id="A">-64945</item>
+        <item id="B">62</item>
+        <item id="C">66106816</item>
+        <item id="D">1068</item>
+        <item id="E">65019</item>
+        <item id="F">-196389</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0065_0005_1080_0600">
+        <item id="A">-70066</item>
+        <item id="B">-757</item>
+        <item id="C">66726988</item>
+        <item id="D">-305</item>
+        <item id="E">66106</item>
+        <item id="F">497098</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0065_0005_1090_0600">
+        <item id="A">65536</item>
+        <item id="B">0</item>
+        <item id="C">0</item>
+        <item id="D">0</item>
+        <item id="E">83886</item>
+        <item id="F">1</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0065_0005_1090_0768">
+        <item id="A">65536</item>
+        <item id="B">0</item>
+        <item id="C">0</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">-2</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0065_0010_1110_0600">
+        <item id="A">-0</item>
+        <item id="B">-65536</item>
+        <item id="C">39321600</item>
+        <item id="D">-65536</item>
+        <item id="E">0</item>
+        <item id="F">67108864</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0066_0010_1024_0600">
+        <item id="A">65536</item>
+        <item id="B">0</item>
+        <item id="C">0</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0066_0010_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0081_0005_1075_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0081_0010_1024_0768">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">-65536</item>
+        <item id="F">50331648</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0084_0005_1083_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0085_0005_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0085_0005_1083_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0085_0010_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0087_0005_1075_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0087_0010_1095_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0091_0010_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0093_0005_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0093_0005_1085_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0095_0005_1085_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0095_0005_1130_0600">
+        <item id="A">0</item>
+        <item id="B">83886</item>
+        <item id="C">0</item>
+        <item id="D">65536</item>
+        <item id="E">0</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0096_0005_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0096_0005_1082_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0097_0005_1085_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0097_0005_1090_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0099_0005_1024_0600">
+        <item id="A">0</item>
+        <item id="B">83886</item>
+        <item id="C">0</item>
+        <item id="D">65536</item>
+        <item id="E">0</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0100_0005_1085_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0101_0010_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0110_0005_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0250_0005_1080_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0250_0005_1090_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0256_0001_1065_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+    </node>
+    <node touch="0257_0001_1075_0600">
+        <item id="A">-65536</item>
+        <item id="B">0</item>
+        <item id="C">67108864</item>
+        <item id="D">0</item>
+        <item id="E">65536</item>
+        <item id="F">0</item>
+        <item id="Div">65536</item>
+   </node>
+</config>
